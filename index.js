@@ -235,3 +235,4 @@ client.on('interactionCreate', async (interaction) => {
 });
 
 client.login(ayarlar.token);
+npm i
